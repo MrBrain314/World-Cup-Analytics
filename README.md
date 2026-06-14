@@ -46,4 +46,8 @@ Les probabilités sont normalisées pour se cumuler à 100 %.
 
 ---
 
+**Démo en ligne :** [World Cup Analytics](https://world-cup-analytics.streamlit.app/)
+
+---
+
 **Auteur** : OURO-TAGBA Bastou · Data Analyst
